@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&&color=DEDEFF&height=300&section=header&text=Cholong%20Park&fontSize=90&fontColor=FFFFFF)
 
 <!--
 **cholong2/cholong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
