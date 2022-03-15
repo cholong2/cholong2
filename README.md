@@ -1,8 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&&color=DEDEFF&height=200&section=header&text=Cholong%20Park&fontSize=90&fontColor=FFFFFF)
 
-## 🛠 Tech Stack 🛠
 
+<div align=center> 
+## 🛠 Tech Stack 🛠
+<img src="https://img.shields.io/badge/androidstudio-#3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
+</div>
 
 <!--
 **cholong2/cholong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
