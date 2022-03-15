@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&&color=DEDEFF&height=200&section=header&text=Cholong%20Park&fontSize=90&fontColor=FFFFFF)
 
+## 🛠 Tech Stack 🛠
+
 
 <!--
 **cholong2/cholong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
