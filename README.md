@@ -3,8 +3,8 @@
 
 
 <div align=center> 
-## 🛠 Tech Stack 🛠
-<img src="https://img.shields.io/badge/androidstudio-#3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
+###🛠 Tech Stack 🛠
+![Android Studio](https://img.shields.io/badge/Android%20Studio-#3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 </div>
 
 <!--
