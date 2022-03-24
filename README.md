@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cholong2&show_icons=true&theme=buefy)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcl106)](https://solved.ac/pcl106)</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcholong2&count_bg=%23BEC3FF&title_bg=%23E7C7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 
 <!--
