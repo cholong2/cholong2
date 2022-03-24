@@ -4,8 +4,7 @@
 
 <div align=center> 
 ###🛠 Tech Stack 🛠
-![Android Studio](https://img.shields.io/badge/Android%20Studio-#3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-</div>
+<img src="https://img.shields.io/badge/#3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>&nbsp 
 
 <!--
 **cholong2/cholong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
